@@ -1,4 +1,7 @@
-In the project directory, you can run:
+In the project directory:
+
+Installs node modules/dependencies.<br>
+### `npm install`
 
 ### `npm start`
 
