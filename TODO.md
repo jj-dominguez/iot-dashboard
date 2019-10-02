@@ -1,5 +1,7 @@
+### TO DO:
+- [ ] mock out new data for each device
+- [ ] add responsiveness to building and chart areas
 
-<!-- TODO: -->
+### KNOWN BUGS:
 
-- mock out new data for each device
-- add responsiveness to building and chart areas
+### BACKLOG:
