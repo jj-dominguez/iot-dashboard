@@ -1,7 +1,7 @@
 In the project directory:
 
-Installs node modules/dependencies.<br>
 ### `npm install`
+Installs node modules/dependencies.<br>
 
 ### `npm start`
 
