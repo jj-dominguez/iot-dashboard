@@ -1,3 +1,6 @@
+Description: This is an IoT Device Dashboard built in React. The dashboard shows both live and historical data visualizations for temperature and humidity readings coming from IoT sensors deployed around a building, as well as calculates the dew point in real time for each device/room.
+
+
 In the project directory:
 
 ### `npm install`
